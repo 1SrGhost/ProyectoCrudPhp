@@ -15,6 +15,6 @@ session_start();
 	 <SCRIPT LANGUAGE="javascript"> 
          alert("Contacto Actualizado"); 
      </SCRIPT> 
-     <META HTTP-EQUIV="Refresh" CONTENT="0; URL=listar.php">
+     <META HTTP-EQUIV="Refresh" CONTENT="0; URL=contactos.php">
 
 
