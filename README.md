@@ -1,3 +1,3 @@
 # ProyectoCrudPhp
 crud y login en php
-uso de MySql, PostgreSQL, Bootstrap, javascript,css
+uso de MySql, Bootstrap, javascript,css
